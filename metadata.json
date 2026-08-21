@@ -1,0 +1,7 @@
+{
+  "name": "trendsetter",
+  "description": "Dynamic contemporary fashion boutique featuring latest runway and streetwear collections with model lookbooks, AI personalized style recommendations, and a seamless multi-step checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
